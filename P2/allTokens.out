@@ -1,11 +1,22 @@
-2019
-while
-else
-return
-print
-if
-receive
-struct
-true
-false
-return
+1, 1 intliteral: 2019
+2, 1 -
+3, 1 id: a
+3, 3 while
+3, 9 else
+3, 14 return
+3, 18 print
+3, 24 if
+3, 27 receive
+3, 35 struct
+3, 42 true
+3, 46 false
+4, 1 return
+6, 1 id: _proletariat
+7, 1 stringliteral: "Peter's special friend Laura"
+8, 1 stringliteral: " Peter's headband"
+9, 1 {
+9, 3 }
+10, 1 (
+10, 3 )
+11, 1 ;
+11, 3 ,
